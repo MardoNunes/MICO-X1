@@ -1,9 +1,9 @@
 # MICO X1
-Implementado por Mardoqueu Freire Nunces.
+Implementado por Mardoqueu Freire Nunes.
 Aplicado como trabalho da disciplinas Projetos Digitais e Microprocessadores - UFPR.
 
 ## RESUMO
-O MICO x1 é um processador simples baseado em arquitetura MIPS. Tem, também, como baseamento o processador MICO XII implementado pelo professor Roberto Hexsel.
+O MICO X1 é um processador simples baseado em arquitetura MIPS. Tem, também, como baseamento o processador MICO XII implementado pelo professor Roberto Hexsel.
 
 ### Estrutura
 - Todo o circuito foi implementado no software Digital.
