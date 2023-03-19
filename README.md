@@ -1,5 +1,5 @@
 # MICO X1
-
+![MicoX1](https://user-images.githubusercontent.com/106790959/226206023-23f35f4e-0f8f-455e-98ec-6c080f4bbaa0.png)
 
 Implementado por Mardoqueu Freire Nunes.
 Aplicado como trabalho da disciplinas Projetos Digitais e Microprocessadores - UFPR.
