@@ -12,9 +12,13 @@ O MICO X1 é um processador simples baseado em arquitetura MIPS. Tem, também, c
 - Os arquivos de instruções de memórias, são arquivos .hex ou seja arquivo hexadecimal.
 - No relatório contém as instruções de operação em linguem assembly.
 
-### Digital
-O download do software Digital pode ser feito no seguinte repositório:
+#### Digital
+- O download do software Digital pode ser feito no seguinte repositório:
 ```bash
     https://github.com/hneemann/Digital
+```
+- No link abaixo é possivel encontrar o repositório com toda a documentação:
+```bash
+    https://github.com/hneemann/Digital/releases/tag/v0.29
 ```
  
